@@ -3,10 +3,10 @@
     using System;
     using System.Linq;
 
-    using Microsoft.ApplicationServer.Caching;
-
     using EnergyTrading.Caching;
     using EnergyTrading.Search;
+
+    using Microsoft.ApplicationServer.Caching;
 
     public class RegionedAppFabricSearchCache : ISearchCache
     {
