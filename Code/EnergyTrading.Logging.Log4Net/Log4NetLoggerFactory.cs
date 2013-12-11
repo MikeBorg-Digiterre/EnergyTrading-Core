@@ -2,10 +2,10 @@
 {
     using System;
 
-    using log4net;
-
     using EnergyTrading.Configuration;
     using EnergyTrading.Logging;
+
+    using log4net;
 
     using LogManager = log4net.LogManager;
 
