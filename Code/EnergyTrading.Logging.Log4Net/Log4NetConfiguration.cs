@@ -7,9 +7,9 @@ namespace EnergyTrading.Logging.Log4Net
     using System.Configuration;
     using System.IO;
 
-    using log4net.Config;
-
     using EnergyTrading.Configuration;
+
+    using log4net.Config;
 
     public class Log4NetConfiguration : IConfigurationTask
     {
